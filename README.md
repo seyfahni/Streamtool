@@ -2,8 +2,9 @@
 
 This is the current Source code :)
 
+'''
 public class Stream extends JFrame {
-	
+'''	
 	public static void main(String[] args) {
 		new Stream();
 	}
